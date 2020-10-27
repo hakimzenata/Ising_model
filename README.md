@@ -1,2 +1,2 @@
 # Ising_model
-Ising model simulation
+This is a simulation of multiple magnetique system using Ising equation and Montecarlo simulation with Metropolis algorithm
